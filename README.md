@@ -54,7 +54,7 @@ Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah :
 
 # Mengaktifkan Mode Debugging
 
--Ketik php spark servepada CLI untuk menjalankan.
+- Ketik php spark serve pada CLI untuk menjalankan.
 
 - Menampilkan pesan error, untuk coba ubah kode file app/Controllers/home.php, hapus ;nya.
   
